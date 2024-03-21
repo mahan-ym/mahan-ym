@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m mostly active in the mobile and application development industry.<br>👯 I’m looking to collaborate on <br>- mobile application projects.<br>- machine learning and data science or blockchain-related science projects.<br>🌱 I’m always improving my knowledge of mobile development.<br>- currently learning about A.I and Blockchain Technology.<br>💬 Ask me about anything. I'll research and come back with an answer.
-
+🔭 I’m a masters student in the University of Padua. And currently I'm focused on AI based software projects.<br>👯 I’m looking to collaborate on <br>- mobile application projects.<br>- machine learning and data science or blockchain-related science projects.<br>🌱 I’m always improving my knowledge.<br>- currently learning about A.I and Blockchain Technology.<br>💬 Ask me about anything. I'll research and come back with an answer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahan-yarmohammad) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mahan-yt) 
